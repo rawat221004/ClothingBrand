@@ -5,7 +5,7 @@ export function Logo() {
     <div className="relative w-24 h-24">
       <Image
         src="/richfella.jpg"  // Corrected the src path to match the filename
-        alt="richfella"
+        alt="richfella123"
         fill
         className="object-contain"
         priority
